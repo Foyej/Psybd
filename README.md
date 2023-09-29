@@ -9,9 +9,9 @@
 $ apt update && apt upgrade
 $ pkg install -y root-repo
 $ pkg install -y git tsu python wpa-supplicant pixiewps iw
-$ git clone https://github.com/Mahfuz-THBD/Wifi_Hack
+$ git clone (https://github.com/Foyej/Psybd)
 $ cd Wifihack2
-$ chmod +x birihack.py
+$ chmod +x psybd.py
 $ sudo python psybd.py --help
 ```
 
